@@ -1,0 +1,30 @@
+@font-face {
+	font-family: VAG;
+	src: url(fonts/16237.ttf);
+}
+body {
+	font-family: VAG;
+	background-color:#E5A4E1; 
+
+}
+p {
+	font-size: 20px;
+	text-align: center;
+}
+img {
+	height: 600px;
+	width: 1000px;
+	margin: auto;
+	position: center;
+	
+}
+#box {
+	width: 50%;
+	margin: auto;
+	background-color: #EEC4C4;
+	padding:30px;
+
+}
+h1 {
+	text-align: center;
+}
