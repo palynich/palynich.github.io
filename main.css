@@ -16,6 +16,7 @@ img {
 	width: 1000px;
 	margin: auto;
 	position: center;
+	display:block;
 	
 }
 #box {
